@@ -1,0 +1,6 @@
+{
+	"parent": "guitem:item/_slot_1x1",
+	"textures": {
+		"button": "guitem:gui_item/disabled_button"
+	}
+}

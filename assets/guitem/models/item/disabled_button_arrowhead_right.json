@@ -1,0 +1,6 @@
+{
+	"parent": "guitem:item/disabled_button",
+	"textures": {
+		"icon": "guitem:gui_item/icon/grayed_arrowhead_right"
+	}
+}

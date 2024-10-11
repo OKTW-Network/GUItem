@@ -1,0 +1,6 @@
+{
+	"parent": "guitem:item/_slot_1x1",
+	"textures": {
+		"sub_field": "guitem:gui_item/sub_field_top_bottom_left"
+	}
+}

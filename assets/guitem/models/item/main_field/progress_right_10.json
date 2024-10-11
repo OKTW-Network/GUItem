@@ -1,0 +1,7 @@
+{
+	"parent": "guitem:item/_slot_2x1_at_left-progress_horizontal",
+	"textures": {
+		"pattern": "guitem:gui_item/progress_right_10",
+		"main_field": "guitem:gui_item/main_field"
+	}
+}
