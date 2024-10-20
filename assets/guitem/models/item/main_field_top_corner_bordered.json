@@ -1,0 +1,8 @@
+{
+	"parent": "guitem:item/_slot_1x1",
+	"textures": {
+		"main_field_layer_2_quarter_bottom_left": "guitem:gui_item/main_field_corner_border",
+		"main_field_layer_2_quarter_bottom_right": "guitem:gui_item/main_field_corner_border",
+		"main_field": "guitem:gui_item/main_field_top"
+	}
+}
