@@ -65,112 +65,112 @@
 		},
 		{
 			"name": "sub_field_layer_2_quarter_top_left",
-			"from": [-1, -7, -1],
-			"to": [8, -4, 8],
+			"from": [-1, -13.8, -1],
+			"to": [8, -13.8, 8],
 			"faces": {
 				"up": {"uv": [0, 0, 4.5, 4.5], "texture": "#sub_field_layer_2_quarter_top_left"}
 			}
 		},
 		{
 			"name": "sub_field_layer_2_quarter_top_right",
-			"from": [8, -7, -1],
-			"to": [17, -4, 8],
+			"from": [8, -13.8, -1],
+			"to": [17, -13.8, 8],
 			"faces": {
 				"up": {"uv": [4.5, 0, 9, 4.5], "texture": "#sub_field_layer_2_quarter_top_right"}
 			}
 		},
 		{
 			"name": "sub_field_layer_2_quarter_bottom_left",
-			"from": [-1, -7, 8],
-			"to": [8, -4, 17],
+			"from": [-1, -13.8, 8],
+			"to": [8, -13.8, 17],
 			"faces": {
 				"up": {"uv": [0, 4.5, 4.5, 9], "texture": "#sub_field_layer_2_quarter_bottom_left"}
 			}
 		},
 		{
 			"name": "sub_field_layer_2_quarter_bottom_right",
-			"from": [8, -7, 8],
-			"to": [17, -4, 17],
+			"from": [8, -13.8, 8],
+			"to": [17, -13.8, 17],
 			"faces": {
 				"up": {"uv": [4.5, 4.5, 9, 9], "texture": "#sub_field_layer_2_quarter_bottom_right"}
 			}
 		},
 		{
 			"name": "sub_field_layer_2",
-			"from": [-1, -4, -1],
-			"to": [17, -4, 17],
+			"from": [-1, -13.8, -1],
+			"to": [17, -13.8, 17],
 			"faces": {
 				"up": {"uv": [0, 0, 9, 9], "texture": "#sub_field_layer_2"}
 			}
 		},
 		{
 			"name": "sub_field_layer_1",
-			"from": [-1, -5, -1],
-			"to": [17, -5, 17],
+			"from": [-1, -13.9, -1],
+			"to": [17, -13.9, 17],
 			"faces": {
 				"up": {"uv": [0, 0, 9, 9], "texture": "#sub_field_layer_1"}
 			}
 		},
 		{
 			"name": "sub_field",
-			"from": [-1, -6, -1],
-			"to": [17, -6, 17],
+			"from": [-1, -14, -1],
+			"to": [17, -14, 17],
 			"faces": {
 				"up": {"uv": [0, 0, 9, 9], "texture": "#sub_field"}
 			}
 		},
 		{
 			"name": "main_field_layer_2_quarter_top_left",
-			"from": [-1, -7, -1],
-			"to": [8, -7, 8],
+			"from": [-1, -14.8, -1],
+			"to": [8, -14.8, 8],
 			"faces": {
 				"up": {"uv": [0, 0, 4.5, 4.5], "texture": "#main_field_layer_2_quarter_top_left"}
 			}
 		},
 		{
 			"name": "main_field_layer_2_quarter_top_right",
-			"from": [8, -7, -1],
-			"to": [17, -7, 8],
+			"from": [8, -14.8, -1],
+			"to": [17, -14.8, 8],
 			"faces": {
 				"up": {"uv": [4.5, 0, 9, 4.5], "texture": "#main_field_layer_2_quarter_top_right"}
 			}
 		},
 		{
 			"name": "main_field_layer_2_quarter_bottom_left",
-			"from": [-1, -7, 8],
-			"to": [8, -7, 17],
+			"from": [-1, -14.8, 8],
+			"to": [8, -14.8, 17],
 			"faces": {
 				"up": {"uv": [0, 4.5, 4.5, 9], "texture": "#main_field_layer_2_quarter_bottom_left"}
 			}
 		},
 		{
 			"name": "main_field_layer_2_quarter_bottom_right",
-			"from": [8, -7, 8],
-			"to": [17, -7, 17],
+			"from": [8, -14.8, 8],
+			"to": [17, -14.8, 17],
 			"faces": {
 				"up": {"uv": [4.5, 4.5, 9, 9], "texture": "#main_field_layer_2_quarter_bottom_right"}
 			}
 		},
 		{
 			"name": "main_field_layer_2",
-			"from": [-1, -7, -1],
-			"to": [17, -7, 17],
+			"from": [-1, -14.8, -1],
+			"to": [17, -14.8, 17],
 			"faces": {
 				"up": {"uv": [0, 0, 9, 9], "texture": "#main_field_layer_2"}
 			}
 		},
 		{
 			"name": "main_field_layer_1",
-			"from": [-1, -8, -1],
-			"to": [17, -8, 17],
+			"from": [-1, -14.9, -1],
+			"to": [17, -14.9, 17],
 			"faces": {
 				"up": {"uv": [0, 0, 9, 9], "texture": "#main_field_layer_1"}
 			}
 		},
 		{
 			"name": "main_field",
-			"from": [-1, -9, -1],
-			"to": [17, -9, 17],
+			"from": [-1, -15, -1],
+			"to": [17, -15, 17],
 			"faces": {
 				"up": {"uv": [0, 0, 9, 9], "texture": "#main_field"}
 			}
