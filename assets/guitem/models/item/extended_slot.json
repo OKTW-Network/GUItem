@@ -1,7 +1,7 @@
 {
 	"parent": "guitem:item/_slot_3x3_at_top_left",
 	"textures": {
-		"slot": "guitem:gui_item/slot_central_border",
+		"slot": "guitem:gui_item/extended_slot_central",
 		"slot_top": "guitem:gui_item/extended_slot_top",
 		"slot_top_left": "guitem:gui_item/extended_slot_top_left",
 		"slot_top_right": "guitem:gui_item/extended_slot_top_right",
