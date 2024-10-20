@@ -3,6 +3,6 @@
 	"textures": {
 		"sub_field_layer_2_quarter_top_left": "guitem:gui_item/sub_field_corner_border",
 		"sub_field_layer_2_quarter_bottom_left": "guitem:gui_item/sub_field_corner_border",
-		"sub_field": "guitem:gui_item/sub_field_right"
+		"sub_field_layer_1": "guitem:gui_item/sub_field_right"
 	}
 }

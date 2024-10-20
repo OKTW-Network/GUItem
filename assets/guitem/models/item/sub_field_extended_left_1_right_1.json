@@ -1,7 +1,7 @@
 {
 	"parent": "guitem:item/_slot_3x3",
 	"textures": {
-		"sub_field": "guitem:gui_item/sub_field",
+		"sub_field_layer_1": "guitem:gui_item/sub_field",
 		"sub_field_left": "guitem:gui_item/sub_field",
 		"sub_field_right": "guitem:gui_item/sub_field"
 	}

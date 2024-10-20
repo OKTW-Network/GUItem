@@ -2,6 +2,6 @@
 	"parent": "guitem:item/_slot_1x1",
 	"textures": {
 		"sub_field_layer_2_quarter_top_right": "guitem:gui_item/sub_field_corner_border",
-		"sub_field": "guitem:gui_item/sub_field_bottom_left"
+		"sub_field_layer_1": "guitem:gui_item/sub_field_bottom_left"
 	}
 }

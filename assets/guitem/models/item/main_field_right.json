@@ -1,6 +1,6 @@
 {
 	"parent": "guitem:item/_slot_1x1",
 	"textures": {
-		"main_field": "guitem:gui_item/main_field_right"
+		"main_field_layer_1": "guitem:gui_item/main_field_right"
 	}
 }
