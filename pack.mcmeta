@@ -1,9 +1,9 @@
 ﻿{
   "pack": {
-    "pack_format": 41,
+    "pack_format": 42,
     "supported_formats": {
       "min_inclusive": 37,
-      "max_inclusive": 41
+      "max_inclusive": 42
     },
     "description": "GUI item models"
   }
