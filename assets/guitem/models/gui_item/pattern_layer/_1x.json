@@ -1,0 +1,40 @@
+{
+	"parent": "guitem:gui_item/_1x",
+	"elements": [
+		{
+			"from": [-8, -14, -8],
+			"to": [24, -14, 24],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#complete"}
+			}
+		},
+		{
+			"from": [-8, -14, -8],
+			"to": [8, -14, 8],
+			"faces": {
+				"up": {"uv": [0, 0, 8, 8], "texture": "#quarter_top_left"}
+			}
+		},
+		{
+			"from": [8, -14, -8],
+			"to": [24, -14, 8],
+			"faces": {
+				"up": {"uv": [8, 0, 16, 8], "texture": "#quarter_top_right"}
+			}
+		},
+		{
+			"from": [-8, -14, 8],
+			"to": [8, -14, 24],
+			"faces": {
+				"up": {"uv": [0, 8, 8, 16], "texture": "#quarter_bottom_left"}
+			}
+		},
+		{
+			"from": [8, -14, 8],
+			"to": [24, -14, 24],
+			"faces": {
+				"up": {"uv": [8, 8, 16, 16], "texture": "#quarter_bottom_right"}
+			}
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"parent": "guitem:gui_item/_display",
+	"textures": {
+		"complete": "guitem:gui_item/blank",
+		"quarter_top_left": "guitem:gui_item/blank",
+		"quarter_top_right": "guitem:gui_item/blank",
+		"quarter_bottom_left": "guitem:gui_item/blank",
+		"quarter_bottom_right": "guitem:gui_item/blank"
+	}
+}

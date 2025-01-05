@@ -1,0 +1,13 @@
+{
+	"parent": "guitem:gui_item/field_layer/_3xtl",
+	"textures": {
+		"top": "guitem:gui_item/3x_main_field_card",
+		"top_left": "guitem:gui_item/3x_main_field_card",
+		"top_right": "guitem:gui_item/3x_main_field_card",
+		"bottom": "guitem:gui_item/3x_main_field_card",
+		"bottom_left": "guitem:gui_item/3x_main_field_card",
+		"bottom_right": "guitem:gui_item/3x_main_field_card",
+		"left": "guitem:gui_item/3x_main_field_card",
+		"right": "guitem:gui_item/3x_main_field_card"
+	}
+}

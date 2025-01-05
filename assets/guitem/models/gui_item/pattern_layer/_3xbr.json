@@ -1,0 +1,10 @@
+{
+	"parent": "guitem:gui_item/pattern_layer/_3x",
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [-18, 18, 0],
+			"scale": [4, 1, 4]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "guitem:gui_item/pattern_layer/_1x",
+	"textures": {
+		"complete": "guitem:gui_item/small_progress_down_6"
+	}
+}
