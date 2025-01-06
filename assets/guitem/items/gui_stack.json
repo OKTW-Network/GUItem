@@ -1603,6 +1603,195 @@
               "type": "minecraft:model",
               "model": "guitem:gui_item/slot_layer/3xbr_extended_slot"
             }
+          },
+          {
+            "when": "helmet",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/helmet"
+            }
+          },
+          {
+            "when": "chestplate",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/chestplate"
+            }
+          },
+          {
+            "when": "leggings",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/leggings"
+            }
+          },
+          {
+            "when": "boots",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/boots"
+            }
+          },
+          {
+            "when": "shield",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/shield"
+            }
+          },
+          {
+            "when": "sword",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/sword"
+            }
+          },
+          {
+            "when": "pickaxe",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/pickaxe"
+            }
+          },
+          {
+            "when": "shovel",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/shovel"
+            }
+          },
+          {
+            "when": "axe",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/axe"
+            }
+          },
+          {
+            "when": "hoe",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/hoe"
+            }
+          },
+          {
+            "when": "ingot",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/ingot"
+            }
+          },
+          {
+            "when": "diamond",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/diamond"
+            }
+          },
+          {
+            "when": "emerald",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/emerald"
+            }
+          },
+          {
+            "when": "lapis_lazuli",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/lapis_lazuli"
+            }
+          },
+          {
+            "when": "redstone_dust",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/redstone_dust"
+            }
+          },
+          {
+            "when": "quartz",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/quartz"
+            }
+          },
+          {
+            "when": "amethyst_shard",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/amethyst_shard"
+            }
+          },
+          {
+            "when": "smithing_template_netherite_upgrade",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/smithing_template_netherite_upgrade"
+            }
+          },
+          {
+            "when": "smithing_template_armor_trim",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/smithing_template_armor_trim"
+            }
+          },
+          {
+            "when": "banner",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/banner"
+            }
+          },
+          {
+            "when": "banner_pattern",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/banner_pattern"
+            }
+          },
+          {
+            "when": "dye",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/dye"
+            }
+          },
+          {
+            "when": "saddle",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/saddle"
+            }
+          },
+          {
+            "when": "horse_armor",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/horse_armor"
+            }
+          },
+          {
+            "when": "llama_armor",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/llama_armor"
+            }
+          },
+          {
+            "when": "brewing_fuel",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/brewing_fuel"
+            }
+          },
+          {
+            "when": "potion",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/slot_layer/potion"
+            }
           }
         ],
         "fallback": {
