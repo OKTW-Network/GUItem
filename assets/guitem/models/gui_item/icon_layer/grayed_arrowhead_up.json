@@ -1,5 +1,5 @@
 {
-	"parent": "guitem:gui_item/icon_layer/_1x",
+	"parent": "guitem:gui_item/icon_layer/_1x_compact",
 	"textures": {
 		"complete": "guitem:gui_item/icon/grayed_arrowhead_up"
 	}
