@@ -1,10 +1,6 @@
 ﻿{
   "pack": {
-    "pack_format": 42,
-    "supported_formats": {
-      "min_inclusive": 37,
-      "max_inclusive": 42
-    },
-    "description": "GUI item models"
+    "pack_format": 46,
+    "description": "No more glass PAINs\nv2.0.0"
   }
 }

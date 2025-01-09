@@ -1,0 +1,6 @@
+{
+	"parent": "guitem:gui_item/field_layer/_1x",
+	"textures": {
+		"quarter_bottom_right": "guitem:gui_item/main_field"
+	}
+}

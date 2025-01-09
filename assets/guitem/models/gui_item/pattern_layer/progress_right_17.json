@@ -1,0 +1,6 @@
+{
+	"parent": "guitem:gui_item/pattern_layer/_progress_right",
+	"textures": {
+		"progress": "guitem:gui_item/progress_right_17"
+	}
+}

@@ -4,6 +4,114 @@
       "type": "directory",
       "source": "gui_item",
       "prefix": "gui_item/"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/helmet"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/chestplate"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/leggings"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/boots"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/shield"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/sword"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/shovel"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/axe"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/hoe"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/ingot"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/diamond"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/emerald"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/lapis_lazuli"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/redstone_dust"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/quartz"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/amethyst_shard"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/smithing_template_netherite_upgrade"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/smithing_template_armor_trim"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/banner"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/banner_pattern"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/dye"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/saddle"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/horse_armor"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/llama_armor"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/brewing_fuel"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/sprites/container/slot/potion"
     }
   ]
 }

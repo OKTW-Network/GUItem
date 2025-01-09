@@ -1,0 +1,6 @@
+{
+	"parent": "guitem:gui_item/foreground_layer/_3xtl",
+	"textures": {
+		"complete": "guitem:gui_item/3x_debug"
+	}
+}

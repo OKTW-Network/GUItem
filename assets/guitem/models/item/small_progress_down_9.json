@@ -1,6 +1,0 @@
-{
-	"parent": "guitem:item/_slot_1x1",
-	"textures": {
-		"pattern": "guitem:gui_item/small_progress_down_9"
-	}
-}

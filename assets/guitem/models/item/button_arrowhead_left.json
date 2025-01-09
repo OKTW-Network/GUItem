@@ -1,6 +1,0 @@
-{
-	"parent": "guitem:item/button",
-	"textures": {
-		"icon": "guitem:gui_item/icon/arrowhead_left"
-	}
-}

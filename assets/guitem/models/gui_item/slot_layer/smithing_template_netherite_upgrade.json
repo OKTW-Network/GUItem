@@ -1,0 +1,6 @@
+{
+	"parent": "guitem:gui_item/slot_layer/_1x_compact",
+	"textures": {
+		"complete": "minecraft:gui/sprites/container/slot/smithing_template_netherite_upgrade"
+	}
+}

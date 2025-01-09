@@ -1,0 +1,21 @@
+{
+	"parent": "guitem:gui_item/_display",
+	"textures": {
+		"progress": "guitem:gui_item/blank"
+	},
+	"elements": [
+		{
+			"from": [4.25, -14, -0.25],
+			"to": [20.25, -14, 15.75],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#progress"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0],
+			"scale": [4, 1, 4]
+		}
+	}
+}

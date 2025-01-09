@@ -1,0 +1,6 @@
+{
+	"parent": "guitem:gui_item/slot_layer/_3xtl",
+	"textures": {
+		"complete": "guitem:gui_item/extended_slot"
+	}
+}
