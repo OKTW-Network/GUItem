@@ -1994,6 +1994,216 @@
               "type": "minecraft:model",
               "model": "guitem:gui_item/icon_layer/grayed_arrowhead_right"
             }
+          },
+          {
+            "when": "arrow_up",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/arrow_up"
+            }
+          },
+          {
+            "when": "arrow_down",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/arrow_down"
+            }
+          },
+          {
+            "when": "arrow_left",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/arrow_left"
+            }
+          },
+          {
+            "when": "arrow_right",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/arrow_right"
+            }
+          },
+          {
+            "when": "grayed_arrow_up",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/grayed_arrow_up"
+            }
+          },
+          {
+            "when": "grayed_arrow_down",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/grayed_arrow_down"
+            }
+          },
+          {
+            "when": "grayed_arrow_left",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/grayed_arrow_left"
+            }
+          },
+          {
+            "when": "grayed_arrow_right",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/grayed_arrow_right"
+            }
+          },
+          {
+            "when": "check_mark",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/check_mark"
+            }
+          },
+          {
+            "when": "cross_mark",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/cross_mark"
+            }
+          },
+          {
+            "when": "grayed_check_mark",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/grayed_check_mark"
+            }
+          },
+          {
+            "when": "grayed_cross_mark",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/grayed_cross_mark"
+            }
+          },
+          {
+            "when": "plus_sign",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/plus_sign"
+            }
+          },
+          {
+            "when": "minus_sign",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/minus_sign"
+            }
+          },
+          {
+            "when": "anonymous",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/anonymous"
+            }
+          },
+          {
+            "when": "person",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/person"
+            }
+          },
+          {
+            "when": "people",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/people"
+            }
+          },
+          {
+            "when": "number_0",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/number_0"
+            }
+          },
+          {
+            "when": "number_1",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/number_1"
+            }
+          },
+          {
+            "when": "number_2",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/number_2"
+            }
+          },
+          {
+            "when": "number_3",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/number_3"
+            }
+          },
+          {
+            "when": "number_4",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/number_4"
+            }
+          },
+          {
+            "when": "number_5",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/number_5"
+            }
+          },
+          {
+            "when": "number_6",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/number_6"
+            }
+          },
+          {
+            "when": "number_7",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/number_7"
+            }
+          },
+          {
+            "when": "number_8",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/number_8"
+            }
+          },
+          {
+            "when": "number_9",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/number_9"
+            }
+          },
+          {
+            "when": "underscore",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/underscore"
+            }
+          },
+          {
+            "when": "positive",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/positive"
+            }
+          },
+          {
+            "when": "negative",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/negative"
+            }
           }
         ],
         "fallback": {
