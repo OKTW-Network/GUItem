@@ -2094,6 +2094,20 @@
             }
           },
           {
+            "when": "exclamation_mark",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/exclamation_mark"
+            }
+          },
+          {
+            "when": "question_mark",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/question_mark"
+            }
+          },
+          {
             "when": "anonymous",
             "model": {
               "type": "minecraft:model",
