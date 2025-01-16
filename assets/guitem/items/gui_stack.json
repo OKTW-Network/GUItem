@@ -1579,6 +1579,104 @@
               "type": "minecraft:model",
               "model": "guitem:gui_item/pattern_layer/small_progress_down_blocked"
             }
+          },
+          {
+            "when": "small_progress_right_0",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/pattern_layer/small_progress_right_0"
+            }
+          },
+          {
+            "when": "small_progress_right_1",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/pattern_layer/small_progress_right_1"
+            }
+          },
+          {
+            "when": "small_progress_right_2",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/pattern_layer/small_progress_right_2"
+            }
+          },
+          {
+            "when": "small_progress_right_3",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/pattern_layer/small_progress_right_3"
+            }
+          },
+          {
+            "when": "small_progress_right_4",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/pattern_layer/small_progress_right_4"
+            }
+          },
+          {
+            "when": "small_progress_right_5",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/pattern_layer/small_progress_right_5"
+            }
+          },
+          {
+            "when": "small_progress_right_6",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/pattern_layer/small_progress_right_6"
+            }
+          },
+          {
+            "when": "small_progress_right_7",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/pattern_layer/small_progress_right_7"
+            }
+          },
+          {
+            "when": "small_progress_right_8",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/pattern_layer/small_progress_right_8"
+            }
+          },
+          {
+            "when": "small_progress_right_9",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/pattern_layer/small_progress_right_9"
+            }
+          },
+          {
+            "when": "small_progress_right_10",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/pattern_layer/small_progress_right_10"
+            }
+          },
+          {
+            "when": "small_progress_right_11",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/pattern_layer/small_progress_right_11"
+            }
+          },
+          {
+            "when": "small_progress_right_12",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/pattern_layer/small_progress_right_12"
+            }
+          },
+          {
+            "when": "small_progress_right_blocked",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/pattern_layer/small_progress_right_blocked"
+            }
           }
         ],
         "fallback": {
