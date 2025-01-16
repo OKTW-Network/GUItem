@@ -1816,6 +1816,20 @@
               "type": "minecraft:model",
               "model": "guitem:gui_item/button_layer/button_unavailable"
             }
+          },
+          {
+            "when": "3x_button",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/button_layer/3x_button"
+            }
+          },
+          {
+            "when": "3x_button_unavailable",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/button_layer/3x_button_unavailable"
+            }
           }
         ],
         "fallback": {

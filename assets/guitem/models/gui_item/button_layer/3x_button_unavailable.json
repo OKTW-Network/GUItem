@@ -1,0 +1,6 @@
+{
+	"parent": "guitem:gui_item/button_layer/_3x",
+	"textures": {
+		"complete": "guitem:gui_item/3x_button_unavailable"
+	}
+}
