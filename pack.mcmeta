@@ -1,6 +1,9 @@
 ﻿{
   "pack": {
     "pack_format": 46,
-    "description": "No more glass PAINs\nv2.0.0"
+    "supported_formats": {"min_inclusive": 46,"max_inclusive": 69},
+    "min_format": 46,
+    "max_format": 69,
+    "description": "No more glass PAINs\nv2.1.0"
   }
 }
