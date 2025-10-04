@@ -16,6 +16,13 @@
             }
           },
           {
+            "when": "3x_debug",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/background_layer/3x_debug"
+            }
+          },
+          {
             "when": "3xtl_debug",
             "model": {
               "type": "minecraft:model",
@@ -2235,6 +2242,13 @@
             "model": {
               "type": "minecraft:model",
               "model": "guitem:gui_item/foreground_layer/debug"
+            }
+          },
+          {
+            "when": "3x_debug",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/background_layer/3x_debug"
             }
           },
           {

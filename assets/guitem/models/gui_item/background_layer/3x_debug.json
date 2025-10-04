@@ -1,0 +1,14 @@
+{
+	"parent": "guitem:gui_item/background_layer/_3x",
+	"textures": {
+		"center": "guitem:gui_item/3x_debug",
+		"top": "guitem:gui_item/3x_debug",
+		"top_left": "guitem:gui_item/3x_debug",
+		"top_right": "guitem:gui_item/3x_debug",
+		"bottom": "guitem:gui_item/3x_debug",
+		"bottom_left": "guitem:gui_item/3x_debug",
+		"bottom_right": "guitem:gui_item/3x_debug",
+		"left": "guitem:gui_item/3x_debug",
+		"right": "guitem:gui_item/3x_debug"
+	}
+}
