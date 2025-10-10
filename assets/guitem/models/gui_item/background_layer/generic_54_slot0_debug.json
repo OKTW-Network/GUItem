@@ -1,0 +1,6 @@
+{
+	"parent": "guitem:gui_item/background_layer/_container",
+	"textures": {
+		"complete": "guitem:gui_item/container/debug_generic_54"
+	}
+}

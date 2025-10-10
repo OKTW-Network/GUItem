@@ -1,0 +1,13 @@
+{
+	"parent": "guitem:gui_item/_display",
+	"textures": {
+		"complete": "guitem:gui_item/blank"
+	},
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [72, -62, 0],
+			"scale": [4, 1, 4]
+		}
+	}
+}

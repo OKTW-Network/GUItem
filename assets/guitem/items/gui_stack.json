@@ -49,6 +49,13 @@
               "type": "minecraft:model",
               "model": "guitem:gui_item/background_layer/sub_field"
             }
+          },
+          {
+            "when": "generic_54_slot0_debug",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/background_layer/generic_54_slot0_debug"
+            }
           }
         ],
         "fallback": {
