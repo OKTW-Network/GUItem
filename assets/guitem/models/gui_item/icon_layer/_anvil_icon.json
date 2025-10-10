@@ -1,0 +1,12 @@
+{
+	"parent": "guitem:gui_item/icon_layer/_anvil_slot1",
+	"elements": [
+		{
+			"from": [-10, 0, -12.5],
+			"to": [-2, 0, -4.5],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#complete"}
+			}
+		}
+	]
+}

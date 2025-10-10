@@ -56,6 +56,34 @@
               "type": "minecraft:model",
               "model": "guitem:gui_item/background_layer/generic_54_slot0_debug"
             }
+          },
+          {
+            "when": "anvil_slot1_debug",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/background_layer/anvil_slot1_debug"
+            }
+          },
+          {
+            "when": "anvil_slot1_main_field_cover_0",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/background_layer/anvil_slot1_main_field_cover_0"
+            }
+          },
+          {
+            "when": "anvil_slot1_main_field_cover_pattern",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/background_layer/anvil_slot1_main_field_cover_pattern"
+            }
+          },
+          {
+            "when": "anvil_slot1_main_field_cover_icon",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/background_layer/anvil_slot1_main_field_cover_icon"
+            }
           }
         ],
         "fallback": {
@@ -2232,6 +2260,13 @@
             "model": {
               "type": "minecraft:model",
               "model": "guitem:gui_item/icon_layer/negative"
+            }
+          },
+          {
+            "when": "anvil_magnifier",
+            "model": {
+              "type": "minecraft:model",
+              "model": "guitem:gui_item/icon_layer/anvil_magnifier"
             }
           }
         ],

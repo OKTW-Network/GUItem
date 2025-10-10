@@ -1,0 +1,10 @@
+{
+	"parent": "guitem:gui_item/foreground_layer/_container",
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [4, -33, 0],
+			"scale": [4, 1, 4]
+		}
+	}
+}

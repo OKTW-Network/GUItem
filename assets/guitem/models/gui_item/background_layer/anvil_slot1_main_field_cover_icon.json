@@ -1,0 +1,6 @@
+{
+	"parent": "guitem:gui_item/background_layer/_anvil_slot1",
+	"textures": {
+		"complete": "guitem:gui_item/container/anvil_main_field_cover_icon"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "guitem:gui_item/icon_layer/_anvil_icon",
+	"textures": {
+		"complete": "guitem:gui_item/large_icon/magnifier"
+	}
+}
