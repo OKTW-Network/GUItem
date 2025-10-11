@@ -6,7 +6,7 @@
 			"to": [32, 0, 32],
 			"shade": false,
 			"faces": {
-				"up": {"uv": [0, 0, 12, 12], "texture": "#complete"}
+				"up": {"uv": [2, 2, 14, 14], "texture": "#complete"}
 			}
 		}
 	]
